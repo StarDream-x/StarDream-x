@@ -2,7 +2,7 @@
 - 👀 I’m interested in almost every area of cs, especially the practical
 - 🌱 I’m currently learning CG, UE and some AI algorithms
 - 💞️ I’m looking to collaborate on any game projects using UE/Unity
-- 📫 Reach me at stardream-x@qq.com
+- 📫 Reach me at hiroxzwang@whu.edu.cn
 
 [![StarDream-x's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarDream-x&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarDream-x&layout=compact&theme=tokyonight&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
