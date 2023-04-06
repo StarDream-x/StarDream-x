@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @StarDream-x
-- 👀 I’m interested in almost every area of cs, especially the practical
+- 👋 Hi, I’m Hiro Wong.
+- 👀 I’m interested in CS & Math
 - 🌱 I’m currently learning CG, UE and some AI algorithms
-- 💞️ I’m looking to collaborate on any game projects using UE/Unity
 - 📫 Reach me at hiroxzwang@whu.edu.cn
 
 [![StarDream-x's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarDream-x&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
